@@ -7,7 +7,7 @@ import javafx.scene.control.TextField;
 
 import java.text.DecimalFormat;
 
-public class HelloController {
+public class MainViewController {
 
     @FXML
     private TextField txtInput1;
